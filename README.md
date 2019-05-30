@@ -1,2 +1,2 @@
 # Siemens
-Reppositorio do para desenvolivmento do projeto 
+Repositorio para o desenvolvimento do projeto
